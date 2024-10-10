@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Mohamedqadar
+# 👋 Hello, I'm Mohamed
 
 ### Checkout my LinkedIn Profile! [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamedqadar)
 
