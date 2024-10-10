@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Mohamedqadar
 
-Checkout my LinkedIn Profile! [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamedqadar)
+### Checkout my LinkedIn Profile! [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamedqadar)
 
 
 ## 💻 Tech Stack:
@@ -55,7 +55,7 @@ Checkout my LinkedIn Profile! [![LinkedIn](https://img.shields.io/badge/LinkedIn
 [![GitLab](https://img.shields.io/badge/GitLab-330F63?style=flat&logo=gitlab&logoColor=white)](https://gitlab.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/)
 
-## ✍️ Random Dev Quote:
+### ✍️ Random Dev Quote:
 
 ![Quote](https://camo.githubusercontent.com/5b5c039e0e17338e87aa9eaf0026a06f8b9774c8d752415a92e7ba581157abb8/68747470733a2f2f71756f7465732d6769746875622d726561646d652e76657263656c2e6170702f6170693f747970653d686f72697a6f6e74616c267468656d653d7261646963616c)
 
